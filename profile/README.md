@@ -1,6 +1,6 @@
 # Vancouver Hack Space
 
-The Vancouver Hack Space (VHS) is a volunteer-run, not-for-profit workshop where members share tools, equipment, space, knowledge, and good times. We are located in Vancouver, BC, Canada.
+The [Vancouver Hack Space](https://vanhack.ca) (VHS) is a volunteer-run, not-for-profit workshop where members share tools, equipment, space, knowledge, and good times. We are located in Vancouver, BC, Canada.
 
 This github organization holds code for the infrastructure of the space, as well as some member group projects.
 
